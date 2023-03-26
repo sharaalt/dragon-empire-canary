@@ -11,7 +11,7 @@ To enable these intents go to your [Developer Portal] (https://discord.com/devel
 ### Config Files
   First rename config.json.example to config.json and fill out the information given in the config.json
 ```json
-    "Token": "Put your bot token here"
+"Token": "Put your bot token here"
 ```
 ### Dependencies
    - Discord.js v14

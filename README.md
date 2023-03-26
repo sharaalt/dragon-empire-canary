@@ -10,8 +10,9 @@ To enable these intents go to your [Developer Portal] (https://discord.com/devel
 
 ### Config Files
   First rename config.json.example to config.json and fill out the information given in the config.json
-```json
-"Token": "Put your bot token here"
+```env
+TOKEN=bot token here
+MONGO_URI=MongoUri Here
 ```
 ### Dependencies
    - Discord.js v14

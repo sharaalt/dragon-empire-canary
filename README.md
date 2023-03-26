@@ -8,7 +8,7 @@ Welcome to dragon empire canary repo this is a beta build for the bot dragon emp
 
 To enable these intents go to your [Developer Portal] (https://discord.com/developers/applications)
 
-### Config Files
+## Config Files
   First rename config.json.example to config.json and fill out the information given in the config.json
     - Token (Your bot's token)
     
